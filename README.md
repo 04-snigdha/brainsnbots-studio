@@ -9,10 +9,10 @@ Apple‑inspired, browser‑based virtual studio for a solo podcast. Built with 
 > 2) Then click one of the buttons below and select your repo.
 
 ### Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=brainsnbots-studio&repository-name=brainsnbots-studio&repository-url=REPLACE_WITH_YOUR_REPO_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=brainsnbots-studio&repository-name=brainsnbots-studio&repository-url=https://github.com/04-snigdha/brainsnbots-studio)
 
 ### Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=REPLACE_WITH_YOUR_REPO_URL)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/04-snigdha/brainsnbots-studio)
 
 Replace `REPLACE_WITH_YOUR_REPO_URL` with the HTTPS URL of your GitHub repository (e.g. `https://github.com/you/brainsnbots-studio`).
 
